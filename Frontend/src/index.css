@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2pvYjEzNjItYmctMDdfMS5qcGc.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
